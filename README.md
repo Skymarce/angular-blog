@@ -1,4 +1,4 @@
-Angular-blog App учебное приложение-блог.
+Blog App учебное приложение-блог, написаное на Angular.
 
 https://angular-blog-4fece.web.app/
 
